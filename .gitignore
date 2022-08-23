@@ -1,23 +1,40 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# typy souboru
+*.user
+*.suo
+*.vspscc
+*.vssscc
+*.webinfo
+*.bat
+*.dll
+*.exe
+*.nupkg
+*.nuspec
+*.d.ts
+*.partial
+*.bin
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# adresare
+bin
+obj
+packages
+build
+.vscode
+.idea
+.vs
+.cache
+wwwroot
+node_modules
 
-# testing
-/coverage
+# specialni soubory
+web.config
+app.config
+*.code-workspace
 
-# production
-/build
+# Jetbrains metadata
+*.iml
+.project
+MWCore/junit.xml
+/MWCore/TescoSW/package-lock.json
 
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+/NENMultiweb
+config.local.js
