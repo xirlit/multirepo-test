@@ -1,0 +1,2 @@
+C:\tests\multirepo\main-repo\obj\Debug\main-repo.esproj.SuggestedBindingRedirects.cache
+C:\tests\multirepo\main-repo\obj\Debug\main-repo.esproj.CoreCompileInputs.cache
