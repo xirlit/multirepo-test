@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "main-repo", "main-repo.esproj", "{CAFDF4B8-93B3-4D6A-B2DC-16CDF50EBB8E}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "utils-repo", "src\utils\utils-repo.njsproj", "{623BA99A-724B-4C69-8542-3C119D30A907}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{CAFDF4B8-93B3-4D6A-B2DC-16CDF50EBB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAFDF4B8-93B3-4D6A-B2DC-16CDF50EBB8E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CAFDF4B8-93B3-4D6A-B2DC-16CDF50EBB8E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{623BA99A-724B-4C69-8542-3C119D30A907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623BA99A-724B-4C69-8542-3C119D30A907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623BA99A-724B-4C69-8542-3C119D30A907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623BA99A-724B-4C69-8542-3C119D30A907}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
